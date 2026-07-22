@@ -1,4 +1,5 @@
 # Google Play Store App Performance Analysis
+**Live Dashboard:** [Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1T60SvwNBoAMWt-PeLT53PGaXkutoLc1jsKrB_YV6Zf4/edit?usp=sharing)
 
 Analysis of ~10,000 Google Play Store apps to identify monetization,
 discovery, and maintenance patterns that drive app performance —
